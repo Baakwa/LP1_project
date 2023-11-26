@@ -63,6 +63,6 @@ The project utilizes essential Python libraries such as Pandas, Numpy, Matplotli
 ### CONCLUSION 
 Through this project, investors seeking opportunities may find the insights here highly active and potential signal areas for investment.
 
-
-
+### LINK TO POWER BI DASHBOARD
+https://app.powerbi.com/groups/me/reports/3e95178b-b9cf-486a-ab4f-9ace643ddc62/ReportSection?experience=power-bi
 
