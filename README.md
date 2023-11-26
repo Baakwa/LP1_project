@@ -1,2 +1,6 @@
-# LP1_project
-Investigating the Indian start up ecosystem to propose best course of action.
+<h1 align="center">Exploring the Indian start up ecosystem to establish a successful venture.
+
+  
+# INTRODUCTION
+
+
