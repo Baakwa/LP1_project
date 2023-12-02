@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LP1_project
 Investigating the Indian start up ecosystem to propose best course of action.
 =======
@@ -69,5 +68,5 @@ Through this project, investors seeking opportunities may find the insights here
 
 
 
->>>>>>> parent of 105badf (Update README.md)
+
 
